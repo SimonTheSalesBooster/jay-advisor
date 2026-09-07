@@ -11,7 +11,7 @@ Built on Jay Abraham's methodology. Adapted for Claude Code.
 ```
 Jay Strategic Alliances -- 2026-04-09
 
-THE ONE THING: Activate Karl's iHeartRadio exec intro
+THE ONE THING: Activate Sylvia's iHeartRadio exec intro
   -- $108K/year candidate. 1 email, 1 intro call.
   -- Expected ROI: $108K if closed, $0 cost.
 
